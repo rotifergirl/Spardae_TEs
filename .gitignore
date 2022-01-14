@@ -1,0 +1,3 @@
+#ignore these directories
+intermediate_results/
+data/
